@@ -1,4 +1,2 @@
 <?php
-echo "{
-  "JSON": "Test"
-}"
+echo 'Test'
